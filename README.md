@@ -1,4 +1,4 @@
-Hi, I'm Shakib Ahmed 👋
+Hi, I'm Shakib Ahmed 
 
 Aspiring Developer | Tech Enthusiast | Lifelong Learner
 
@@ -8,13 +8,13 @@ I'm passionate about technology, creative problem-solving, and building meaningf
 
 ---
 
-👨‍💻 About Me
+ About Me
 
-- 🚀 Building my journey in software development.
-- 🌱 Exploring programming and modern technologies.
-- 💡 Interested in web development and innovative solutions.
-- 🎯 Focused on learning, creating, and improving every day.
-- 🤝 Open to collaboration and learning opportunities.
+- Building my journey in software development.
+- Exploring programming and modern technologies.
+- Interested in web development and innovative solutions.
+- Focused on learning, creating, and improving every day.
+- Open to collaboration and learning opportunities.
 
 🛠️ Technologies & Interests
 
@@ -24,16 +24,16 @@ I'm passionate about technology, creative problem-solving, and building meaningf
 - Problem Solving
 - Emerging Technologies
 
-📊 GitHub Overview
+ GitHub Overview
 
-🤝 Connect With Me
+ Connect With Me
 
 - GitHub: "@shakibahmed" (https://github.com/shakibahmedx)
 
 ---
 
-💬 Personal Motto
+ Personal Motto
 
 "Learn. Build. Improve. Repeat."
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
